@@ -1,0 +1,6 @@
+{
+  "name": "SlotFeast - Campus Canteen OS",
+  "description": "Every meal, perfectly timed. Intelligent campus canteen management system with predictive demand, batch preparation, queue coordination, and real-time notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
